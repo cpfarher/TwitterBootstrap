@@ -1,6 +1,9 @@
 El plugin original ha sido modificado par adaptar los estilos necesarios de bootstrap para que se corresponda con el estilo deseado para el sitio.
 
-Tener en cuenta que se debe copiar el filterbuttons.ctp a la carpeta Elements de la aplicación
+Tener en cuenta que se debe copiar el filterbuttons.ctp a la carpeta Elements de la aplicación.
+
+### Comentarios originales del autor: ###
+
 #Development of this plugin has moved [BoostCake](https://github.com/slywalker/cakephp-plugin-boost_cake).
 
 #TwitterBootstrap Plugin for CakePHP2.x
